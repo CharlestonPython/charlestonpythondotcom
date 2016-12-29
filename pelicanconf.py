@@ -31,6 +31,13 @@ GITHUB_URL = 'http://github.com/CharlestonPython'
 
 DEFAULT_PAGINATION = 10
 
+SITELOGO = 'images/Logo_final01.png'
+SITELOGO_SIZE = '30'
+
+# Pelican Theme-specific variables
+BOOTSTRAP_THEME = 'cosmo'
+PYGMENTS_STYLE = 'monokai'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
