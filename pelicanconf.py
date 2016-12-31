@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+# Refer to [1] for a decent example configuration
+# [1] https://github.com/tyleha/beneathdata/blob/master/pelicanconf.py
+
 AUTHOR = 'Chris Mullins'
 SITENAME = 'Charleston Python'
 SITEURL = ''
